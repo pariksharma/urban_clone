@@ -1,0 +1,64 @@
+.mainConta{
+    margin-top: 8%;
+    /* width: 20%; */
+    margin-left: 9%;
+    display: flex;
+}
+
+.conta{
+    margin-left: 10%;
+}
+
+.rating{
+    margin-left: 9%
+}
+
+.viewButtons
+{
+    margin-left: 8%
+}
+
+.viewButton{
+    background-color: rgb(114, 59, 241);
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 2px;
+    margin: 2%;
+    border-radius: 5px;
+    width: 40%;
+}
+
+.serviceDetail{
+    display: flex;
+    margin-left: 10%;
+}
+
+.title{
+    margin: 10px;
+}
+
+.img1{
+    width: 700px;
+    border-radius: 10px;
+}
+
+.servicesDet{
+    margin-left: 12%;
+}
+
+.DetailCont{
+    margin-top: 2%;
+    border: 1px solid rgba(92, 92, 92, 0.55);
+    padding: 5%;
+}
+
+.divi{
+    display: flex;
+    flex-direction: column;
+}
+
+.smImage{
+    display: flex;
+    justify-content: center;
+}

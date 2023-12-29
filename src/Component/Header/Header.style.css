@@ -1,0 +1,76 @@
+.mainCont{
+    width: 100%;
+    position: fixed;
+    height: 8%;
+    box-shadow: rgba(100, 100, 111, 0.5) 0px 7px 29px 0px;
+    background-color: white;
+    margin-top: -10px;
+    margin-left: -8px;
+    padding: 0;
+}
+
+.cont{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 10px 250px
+}
+
+.content{
+    display: flex;
+    align-items: center;
+    /* justify-content: space-around; */
+}
+.filter{
+    display: flex;
+    margin: 0px 60px;
+}
+
+.locationFilter{
+    height: 40px;
+    width: 300px;
+    margin: 0px 10px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 2px;
+    border-radius: 5px;
+    /* margin-left: 10px; */
+}
+
+.productCategory{
+    height: 40px;
+    width: 300px;
+    margin: 0px 10px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 2px;
+    border-radius: 5px;
+}
+
+.icon-logo{
+    width: 40px;
+    color: grey;
+    padding-top: 10px;
+}
+
+.input{
+    width: 250px;
+    height: 35px;
+    border-style: none;
+    font-size: 18px;
+    padding: 0px 5px;    
+}
+
+.input:hover{
+    border-style: none;
+}
+
+.buttonLogin{
+    background-color: white;
+    border: none;
+    padding: 10px 25px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 2px;
+
+}
+
+
+
+.logo{
+    height: 50px;
+}

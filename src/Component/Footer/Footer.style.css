@@ -1,0 +1,32 @@
+.footerMainCont{
+    background-color: rgb(182, 182, 182);
+}
+
+.footerCont{
+    padding: 3% 8%;
+}
+
+.footerConte{
+    display: flex;
+    justify-content: space-around;
+    text-align: start;
+}
+
+.comHead,h5{
+    font-size: 20px;
+    margin-left: 10%;
+}
+
+li{
+    list-style: none;
+}
+
+.log{
+    width: 200px
+}
+
+.sLogo{
+    margin-left: 3%;
+    font-size: 30px;
+}
+

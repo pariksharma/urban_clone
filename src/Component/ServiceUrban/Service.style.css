@@ -1,0 +1,66 @@
+.serviceMain{
+    margin-top: 5%;
+    /* overflow-y: hidden; */
+    width: 100%
+}
+
+.serviceContainer{
+    display: flex;
+    justify-content: center;
+    margin: 2% 20%;
+}
+
+.serviceContent{
+    width: 140%;
+}
+
+.serviceSubContainer{
+    width: 70%;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 2px;
+    padding: 2% 5%;
+    border-radius: 5px;
+}
+
+.serviceheading,h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+}
+
+.serviceSubHeading,h4{
+    font-size: 22px;
+    color: grey;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.services{
+    display: flex;
+    flex-wrap: wrap;
+    height: 350px
+}
+
+.service{
+    width: 130px;
+    height: 140px;
+    margin: 8px;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 2px;
+}
+
+.horizontalBar{
+    border: 1px solid rgba(0, 0, 0, 0.15);
+}
+
+.produtImage1{
+    width: 440px;
+    height: 200px
+}
+
+.produtImage,p{
+    color: gray;
+    text-align: center;
+}
+
+.img12{
+    width: 500px;
+    height: 400px;
+}

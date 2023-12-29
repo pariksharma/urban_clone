@@ -1,0 +1,51 @@
+.modalMainContainer{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.modalContain{
+    width: 30%;
+    background-color: white;
+    box-shadow: rgba(100, 100, 111, 0.5) 0px 7px 29px 0px;
+    border-radius: 5px;
+    height: 250px
+}
+
+.ModalHeading{
+    margin: 2%;
+    color: rgba(0, 0, 0, 0.75);
+}
+
+.inp{
+    border: 1px solid rgba(100, 100, 111, 0.5);
+    margin: 2%;
+    width: 90%;
+    font-size: 20px;
+}
+
+.Check{
+    margin: 2%;
+    color: rgba(0, 0, 0, 0.75);
+}
+
+.proceedButton{
+    background-color: rgb(114, 59, 241);
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 2px;
+    margin: 2%;
+    border-radius: 5px;
+    width: 40%
+}
+
+.closeButton{
+    background-color: white;
+    border: none;
+    padding: 10px 25px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 2px;
+    border-radius: 5px;
+    margin: 2%;
+    width: 40%
+}
